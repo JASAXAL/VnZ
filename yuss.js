@@ -23,9 +23,9 @@ bot.start((ctx) => {
 ➬ Id: ${user.id}
 
 𖧶 Bot Info
-➬ Name: Syuzo
-➬ Owner: YussXy
-➬ Version: 1.0
+➬ Name: Delta
+➬ Owner: RitsuX7
+➬ Version: X
 ➬ Prefix: /
 
 ⌥⧽ BOT FEATURES
@@ -42,7 +42,7 @@ bot.start((ctx) => {
         reply_markup: {
             inline_keyboard: [
                 [{ text: "Join Saluran", url: 'https://whatsapp.com/channel/0029VbAgFKULSmbeJMLfmR3b' }],
-                [{ text: "Chat Owner", url: 'https://t.me/YussXy' }],
+                [{ text: "Chat Owner", url: 'https://t.me/RitsuXn2' }],
                 [{ text: "Update Bot", callback_data: 'update_bot' }],
                 [{ text: "Support", url: 'https://saweria.co/yussxy' }, { text: "Saran", url: 'https://ngl.link/yussxy' }]
             ]
@@ -60,9 +60,9 @@ bot.action('update_bot', async (ctx) => {
 ✅ 12 fitur - Rp.10000
 
 💳 PEMBAYARAN:
-🏦 DANA: 083188871798
+🏦 DANA: 083891475720
 
-Kirim bukti transfer ke owner @YussXy
+Kirim bukti transfer ke owner @RitsuXn2
 `, {
         parse_mode: 'Markdown',
         reply_markup: {
@@ -84,9 +84,9 @@ bot.action('back_to_start', async (ctx) => {
 ➬ Id: ${user.id}
 
 𖧶 Bot Info
-➬ Name: Syuzo
-➬ Owner: YussXy
-➬ Version: 1.0
+➬ Name: Delta
+➬ Owner: RitsuX7
+➬ Version: X
 ➬ Prefix: /
 
 ⌥⧽ BOT FEATURES
@@ -542,7 +542,7 @@ bot.command('faxelobyff', async (ctx) => {
     }
     
     if (!nama) {
-        return ctx.reply('✎ Example:\n/faxelobyff YussXy', { reply_to_message_id: replyToMessageId })
+        return ctx.reply('✎ Example:\n/faxelobyff kalsenooi', { reply_to_message_id: replyToMessageId })
     }
 
     const loadingMsg = await ctx.reply('LOADING.....', { reply_to_message_id: replyToMessageId })
@@ -588,7 +588,7 @@ bot.command('iqc', async (ctx) => {
     }
     
     if (!teks) {
-        return ctx.reply('✎ Example:\n/iqc Hai', { reply_to_message_id: replyToMessageId })
+        return ctx.reply('✎ Example:\n/iqc TheRitsuzoZhiro', { reply_to_message_id: replyToMessageId })
     }
 
     const loadingMsg = await ctx.reply('LOADING.....', { reply_to_message_id: replyToMessageId })
