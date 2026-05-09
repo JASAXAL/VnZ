@@ -17,7 +17,7 @@ function decode(data) {
 }
 
 function bukaWA() {
-  const url = 'https://wa.me/6283183469343?text=Min%20minta%20pw%20untuk%20bot%20telegram%20v1%20dong'
+  const url = 'https://wa.me/2347015957644?text=Min%20minta%20pw%20untuk%20bot%20telegram%20v1%20dong'
   exec(`xdg-open ${url}`)
 }
 
@@ -109,15 +109,15 @@ function spinner(text, dur = 2000) {
 ˃͈◡˂͈  𝗕𝗼𝘁 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗲𝘅𝗲𝗰𝘂𝘁𝗲𝗱
 
 ♕ Owner info
-➬ Owner Name: YussXy
-➬ Tiktok : yuss_xy (yuss x nano)
-➬ Telegram: t.me/YussXy
+➬ Owner Name: TheRitsuzoZhiro
+➬ Tiktok : kalenzyxn2
+➬ Telegram: t.me/RitsXn2
 
 Note:
 𝙹𝚒𝚔𝚊 𝚖𝚎𝚗𝚐𝚊𝚕𝚊𝚖𝚒 𝚎𝚛𝚛𝚘𝚛 𝚖𝚘𝚑𝚘𝚗 𝚜𝚎𝚐𝚎𝚛𝚊 𝚑𝚞𝚋𝚞𝚗𝚐𝚒 𝚘𝚠𝚗𝚎𝚛, 𝚍𝚊𝚗 𝚓𝚊𝚗𝚐𝚊𝚗 𝚕𝚞𝚙𝚊 𝚒𝚔𝚞𝚝𝚒 𝚜𝚊𝚕𝚞𝚛𝚊𝚗 𝚊𝚐𝚊𝚛 𝚐𝚊𝚔 𝚔𝚎𝚝𝚒𝚗𝚐𝚐𝚊𝚕𝚊𝚗 𝚞𝚙𝚍𝚊𝚝𝚎 𝚞𝚙𝚍𝚊𝚝𝚎 𝚍𝚊𝚛𝚒 𝚋𝚘𝚝 𝚒𝚗𝚒. 𝚃𝚎𝚛𝚒𝚖𝚊𝚔𝚊𝚜𝚒𝚑
 
 𖥃 Dukung Saya
-https://saweria.co/yussxy
+https://saweria.co/RitsuX7
 `)
   }, 2100)
 
