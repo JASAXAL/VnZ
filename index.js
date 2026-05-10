@@ -7,7 +7,7 @@ const { exec } = require('child_process')
 
 const bot = new Telegraf(config.token)
 
-const sempak = 'WXVzc1h5MDE='
+const sempak = 'Uml0c3VYNw=='
 const FILE = '.micbrew'
 
 const clear = () => process.stdout.write('\x1Bc')
